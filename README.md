@@ -36,8 +36,6 @@ Tenho como objetivo consolidar minha carreira na área de tecnologia, participan
 * Sistema de Gestão de Escalas
 
 ---
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTrevisan22&layout=compact)
 
 
 
