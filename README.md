@@ -36,6 +36,7 @@ Tenho como objetivo consolidar minha carreira na área de tecnologia, participan
 * Sistema de Gestão de Escalas
 
 ---
+![Snake animation](https://github.com/VitorTrevisan22/VitorTrevisan22/blob/output/github-contribution-grid-snake.svg)
 
 
 
