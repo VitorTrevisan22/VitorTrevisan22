@@ -37,7 +37,7 @@ Tenho como objetivo consolidar minha carreira na área de tecnologia, participan
 
 ---
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmascaro26&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitortrevisan22&layout=compact)
 
 
 
